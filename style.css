@@ -1,0 +1,90 @@
+body {
+	margin:0;
+	padding:0;
+	background-image: url("fundou.png");
+	background-size: cover;
+}
+
+
+header{
+	background-color:black;
+	
+}
+
+img{
+	max-width:250px;
+	text-align:center;
+}
+
+div{
+	text-align:center;
+}
+
+.divii{
+	background-color:white;
+}
+
+h2{
+	color:white;
+	text-align:center;
+}
+
+.label{
+	
+	color:white;
+}
+
+.bora{
+	color:black;
+	text-align:center;
+	background-color:white;
+	width:250px;
+	height:250px;
+	border-radius:8px;
+	margin-top:90px;
+}
+
+main{
+	display:flex;
+	align-items: center;
+	color:white;	
+}
+}
+
+.linha{
+	color:white;
+	font-size:50px;
+	
+}
+
+.text{
+	width:200px;
+	margin:110px;
+	font-size:50px;
+	
+	
+}
+	/*text-align: center;
+    margin-top: 110px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;*/
+
+.butto{
+	top:60px;
+	margin-left:70px;
+}
+
+
+
+
+
+
+
+
+
+
+
